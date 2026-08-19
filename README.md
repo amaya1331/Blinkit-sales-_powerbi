@@ -85,7 +85,7 @@ The project uses the **BlinkIT Grocery Data.csv** dataset.
 
 ---
 
-## 🔄 Project Workflow
+##  Project Workflow
 
 ```text
 Raw CSV Dataset
@@ -109,7 +109,7 @@ Business Insights
 
 ---
 
-## 🧹 Data Cleaning & Preparation
+##  Data Cleaning & Preparation
 
 The dataset was prepared before creating the dashboard.
 
